@@ -1,4 +1,4 @@
-原仓库：https://github.com/ddgth/cf2dns
+原仓库: https://github.com/ddgth/cf2dns
 
 ---
 
